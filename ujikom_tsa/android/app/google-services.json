@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "793366174938",
+    "firebase_url": "https://ujikom-tsa-88e44-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ujikom-tsa-88e44",
+    "storage_bucket": "ujikom-tsa-88e44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793366174938:android:d3174c8cce1989042599e3",
+        "android_client_info": {
+          "package_name": "com.example.ujikom_tsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793366174938-74c9mpevc3lgmdkbks5kmlclb7kr758f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2HWdRJrV1UIjP-Qw-ceKutKDT3lzoX04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793366174938-74c9mpevc3lgmdkbks5kmlclb7kr758f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "793366174938-e432rtitdb4je28ouna3793v7kglju1n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ujikomTsa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
